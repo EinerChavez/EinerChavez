@@ -24,9 +24,9 @@ Soy egresado de Computación e Informática en Cibertec, apasionado por el desar
 - Cómo usar la programación como herramienta de autocuidado.
 
 ### 📫 Cómo contactarme:
-- 📧 einerchavez.dev@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/einerchavez)
-- 🌐 [Portafolio](https://einerchavez.github.io) *(si tienes uno, lo agregamos)*
+- 📧 einercha32@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/einer-chavez-688733282)
+- 🌐 [Portafolio](https://portafolioeiner.netlify.app/) 
 
 ---
 
