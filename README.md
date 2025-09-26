@@ -25,7 +25,7 @@ Soy egresado de Computación e Informática en Cibertec, apasionado por el desar
 
 ### 📫 Cómo contactarme:
 - 📧 einercha32@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/einer-chavez-688733282)
+- 💼 [LinkedIn](https://www.linkedin.com/in/einer-chavez-688733282/)
 - 🌐 [Portafolio](https://portafolioeiner.netlify.app/) 
 
 ---
