@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy Einer Chávez
 
-<!--
-**EinerChavez/EinerChavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy egresado de Computación e Informática en Cibertec, apasionado por el desarrollo backend y frontend. Me gusta crear soluciones que no solo funcionen bien, sino que también ayuden a organizar ideas, emociones y metas.
 
-Here are some ideas to get you started:
+### 🚀 ¿Qué hago?
+- 🔧 Desarrollo backend con **Spring Boot**, creando APIs RESTful seguras y escalables.
+- 🗄️ Diseño y gestión de **bases de datos** con SQL Server.
+- 🌐 Desarrollo web con **Angular**, **HTML**, **CSS** y **JavaScript**.
+- 🐳 Integración de proyectos con **Docker** para entornos portables y eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Actualmente estoy aprendiendo...
+- Mejores prácticas de arquitectura de software.
+- Optimización visual y funcional de interfaces.
+- Cómo canalizar emociones a través de proyectos técnicos.
+
+### 🤝 Busco colaborar en...
+- Proyectos que mezclen tecnología y bienestar personal.
+- Aplicaciones web con impacto social o educativo.
+- Equipos que valoren la empatía, la organización y el crecimiento mutuo.
+
+### 💬 Pregúntame sobre...
+- Cómo estructurar tu backend desde cero.
+- Cómo redactar reclamos administrativos con firmeza y respeto.
+- Cómo usar la programación como herramienta de autocuidado.
+
+### 📫 Cómo contactarme:
+- 📧 einerchavez.dev@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/einerchavez)
+- 🌐 [Portafolio](https://einerchavez.github.io) *(si tienes uno, lo agregamos)*
+
+---
+
+> “La tecnología no solo organiza sistemas, también puede ayudarte a organizar tu vida.”  
