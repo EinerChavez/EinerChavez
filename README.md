@@ -2,11 +2,13 @@
 
 Soy egresado de Computación e Informática en Cibertec, apasionado por el desarrollo backend y frontend. Me gusta crear soluciones que no solo funcionen bien, sino que también ayuden a organizar ideas, emociones y metas.
 
-### 🚀 ¿Qué hago?
-- 🔧 Desarrollo backend con **Spring Boot**, creando APIs RESTful seguras y escalables.
-- 🗄️ Diseño y gestión de **bases de datos** con SQL Server.
-- 🌐 Desarrollo web con **Angular**, **HTML**, **CSS** y **JavaScript**.
-- 🐳 Integración de proyectos con **Docker** para entornos portables y eficientes.
+🚀 ¿Qué hago?
+• 	🔧 Desarrollo backend con Spring Boot, creando APIs RESTful seguras y escalables.
+• 	☕ Programación en Java, aplicando principios sólidos de orientación a objetos y buenas prácticas.
+• 	🧪 Pruebas y documentación de APIs con Postman, asegurando funcionalidad y claridad para otros desarrolladores.
+• 	🗄️ Diseño y gestión de bases de datos con SQL Server, MySQL y MongoDB.
+• 	🌐 Desarrollo web con HTML, CSS y JavaScript, optimizando interfaces visuales y funcionales.
+• 	🐳 Integración de proyectos con Docker para entornos portables y eficientes
 
 ### 🌱 Actualmente estoy aprendiendo...
 - Mejores prácticas de arquitectura de software.
